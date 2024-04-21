@@ -1,0 +1,12 @@
+# ninja log v5
+2	3020	1686883588270890580	/home/zhanggl/sda/szy/focalsconv-mm/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms_kernel.o	1c913eaf156a1d4
+1	18008	1686883603282977731	/home/zhanggl/sda/szy/focalsconv-mm/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms.o	e1947b7d20f0fc6b
+0	39279	1686883604590985330	/home/zhanggl/sda/szy/focalsconv-mm/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_cpu.o	9e034f485375a273
+1	39279	1686883613755038602	/home/zhanggl/sda/szy/focalsconv-mm/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms_api.o	be73fe96f8bea348
+5	10495	1686886211434095478	/home/zhanggl/sda/szy/focalsconv-mm/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_cpu.o	a1757677aa4186e2
+6	11341	1686886212278092746	/home/zhanggl/sda/szy/focalsconv-mm/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms.o	6845df06cc1f6099
+6	109894	1686886218958071185	/home/zhanggl/sda/szy/focalsconv-mm/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms_api.o	65191553ce05f967
+5	3407	1686886601109146763	/home/zhanggl/sda/szy/focalsconv-mm/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms_kernel.o	e731d1a7cacd5707
+4	15804	1686886613537837581	/home/zhanggl/sda/szy/focalsconv-mm/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms.o	e1947b7d20f0fc6b
+4	16999	1686886614733903335	/home/zhanggl/sda/szy/focalsconv-mm/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_cpu.o	9e034f485375a273
+4	25156	1686886622878347720	/home/zhanggl/sda/szy/focalsconv-mm/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms_api.o	be73fe96f8bea348

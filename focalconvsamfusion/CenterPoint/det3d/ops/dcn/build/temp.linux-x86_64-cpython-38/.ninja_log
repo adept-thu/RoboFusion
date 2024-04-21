@@ -1,0 +1,5 @@
+# ninja log v5
+0	20826	1686883582530857293	/home/zhanggl/sda/szy/focalsconv-mm/CenterPoint/det3d/ops/dcn/build/temp.linux-x86_64-cpython-38/src/deform_conv_cuda_kernel.o	dd0823530ec43210
+0	23747	1686886363120759958	/home/zhanggl/sda/szy/focalsconv-mm/CenterPoint/det3d/ops/dcn/build/temp.linux-x86_64-cpython-38/src/deform_conv_cuda.o	8b30c080d192aa53
+4	15300	1686886575963705795	/home/zhanggl/sda/szy/focalsconv-mm/CenterPoint/det3d/ops/dcn/build/temp.linux-x86_64-cpython-38/src/deform_conv_cuda_kernel.o	d46de1b419d9b952
+3	32720	1686886593416712173	/home/zhanggl/sda/szy/focalsconv-mm/CenterPoint/det3d/ops/dcn/build/temp.linux-x86_64-cpython-38/src/deform_conv_cuda.o	334c215443c9ada
