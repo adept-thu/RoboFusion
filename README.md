@@ -1,6 +1,6 @@
 <div align="center">   
 
-# RoboFusion: Towards Robust Multi-Modal 3D Object Detection via SAM
+# [IJCAI2024] RoboFusion: Towards Robust Multi-Modal 3D Object Detection via SAM
 </div>
 
 <div align="justify">  
