@@ -33,7 +33,8 @@ BEVFusion是自己写的dataloader，因此，当我们迁移nuScenes-C到别人
 
 
 
-离线数据集已上传到百度网盘：我的网盘/database/3D_Corruptions_AD/
+离线数据集：
+链接: https://pan.baidu.com/s/1SVMzv6xxo49K11pDYriEUQ?pwd=bn3r 提取码: bn3r 
 
 ![](https://cdn.nlark.com/yuque/0/2023/png/21724030/1693901326838-9e98cb45-91d1-4bc1-8a4b-c61e9c1185a0.png)
 
