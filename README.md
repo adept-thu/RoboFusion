@@ -64,7 +64,8 @@ Please refer to clean dataset: [OpenPCDet](https://github.com/open-mmlab/OpenPCD
 
 ## KITTI-C and nuScenes-C (noisy dataset)
 
-Please refer to [noise dataset](https://github.com/thu-ml/3D_Corruptions_AD).
+We referred to the official implementation: Please refer to [noise dataset](https://github.com/thu-ml/3D_Corruptions_AD).
+Please refer to our implementation method for 3D_Corruptions_AD:[3D_Corruptions_AD，KITTI-C，nus-C](https://github.com/adept-thu/RoboFusion/blob/master/3D_Corruptions_AD%EF%BC%8CKITTI-C%EF%BC%8Cnus-C%EF%BC%8C%E5%AE%9E%E7%8E%B0%E4%BA%BA%EF%BC%9A%E9%91%AB%E5%85%89.md).
 
 # Getting Start
 
