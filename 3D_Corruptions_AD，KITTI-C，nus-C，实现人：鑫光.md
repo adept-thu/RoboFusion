@@ -10,7 +10,7 @@
 
 
 :::info
-BEVFusion是自己写的dataloader，因此，当我们迁移nuScenes-C到别人的方法上时，注意类型差异。详见[https://3dcv.yuque.com/org-wiki-3dcv-mm1l0t/ysgfp9/dm5qqwv4qx9buztp#kKbR2](#kKbR2)
+BEVFusion是自己写的dataloader，因此，当我们迁移nuScenes-C到别人的方法上时，注意类型差异。详见## 其他基于mmdet3d的SOTA方法与BEVFusion的部分接口有问题
 
 :::
 
@@ -25,8 +25,8 @@ BEVFusion是自己写的dataloader，因此，当我们迁移nuScenes-C到别人
 
 
 
-1. snow在线加的方式与论文结果不一致。可使用清华提供的snow离线数据集推理，详见：[https://3dcv.yuque.com/org-wiki-3dcv-mm1l0t/ysgfp9/dm5qqwv4qx9buztp#bZjTD](#bZjTD)
-2. 3D_Corruptions的环境是一定要装的[https://3dcv.yuque.com/org-wiki-3dcv-mm1l0t/ysgfp9/dm5qqwv4qx9buztp#peU9Y](#peU9Y)
+1. snow在线加的方式与论文结果不一致。可使用清华提供的snow离线数据集推理，详见：## snow使用清华数据
+2. 3D_Corruptions的环境是一定要装的### 3D_Corruptions_AD 环境
 3. 如果是服务器没有装Open3d,也为报一个莫名的错，解决方法就是注释掉 `import open3d`或者 `pip install open3d`
 4. nuScenes多了一个temporal Aligmentation，他与作者提供的结果不一致。
 5. KITTI-C的Shear,Scale,Rotation是不支持在OpenPCDet上直接加的，需要通过mmdet3d推理的时候离线保存。
